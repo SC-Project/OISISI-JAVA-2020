@@ -1,0 +1,4 @@
+Student [name=Amit, lastName=Amar, date=1.1.2001, adress=Adresa1, telephone=123142, email=Email1, index=1, startDate=2021, studentYear=3, status=B, avgMark=9.3]
+Student [name=Bmit, lastName=Bmar, date=2.1.2002, adress=Adresa2, telephone=223142, email=Email6, index=2, startDate=2023, studentYear=2, status=C, avgMark=8.3]
+Student [name=Cmit, lastName=Cmar, date=3.1.2003, adress=Adresa3, telephone=423142, email=Email4, index=3, startDate=2022, studentYear=4, status=B, avgMark=7.3]
+Student [name=Dmit, lastName=Dmar, date=4.1.2004, adress=Adresa4, telephone=223142, email=Email3, index=4, startDate=2026, studentYear=1, status=B, avgMark=6.3]
